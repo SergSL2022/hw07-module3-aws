@@ -9,6 +9,11 @@
 ![alt text](<screenshots/ecr/1/Знімок екрана з 2024-05-07 15-18-22.png>)
 
 ### 2. Build your custom image on your laptop or in ec2
+![alt text](<screenshots/ecr/2/Знімок екрана з 2024-05-07 15-23-22.png>)
+![alt text](<screenshots/ecr/2/Знімок екрана з 2024-05-07 15-23-36.png>)
+![alt text](<screenshots/ecr/2/Знімок екрана з 2024-05-07 15-43-29.png>)
+![alt text](<screenshots/ecr/2/Знімок екрана з 2024-05-07 15-53-17.png>)
+
 ### 3. Login to ECR repo
 ### 4. Push image to ECR
 ### 5. Delete ECR
