@@ -3,6 +3,11 @@
 ## ECR
 
 ### 1. Create your own ECR repo
+![alt text](<screenshots/ecr/1/Знімок екрана з 2024-05-07 15-12-41.png>)
+![alt text](<screenshots/ecr/1/Знімок екрана з 2024-05-07 15-15-51.png>)
+![alt text](<screenshots/ecr/1/Знімок екрана з 2024-05-07 15-17-43.png>)
+![alt text](<screenshots/ecr/1/Знімок екрана з 2024-05-07 15-18-22.png>)
+
 ### 2. Build your custom image on your laptop or in ec2
 ### 3. Login to ECR repo
 ### 4. Push image to ECR
