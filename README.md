@@ -52,6 +52,24 @@
 
 
 ### 2. Create ec2 instance and provide policy which will allow this specifc ec2 access to your specific cluster
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-43-07.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-43-56.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-44-14.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-45-50.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-46-09.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 14-46-38.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-26-13.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-29-25.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-29-54.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-30-45.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-30-51.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-31-13.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-31-36.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-32-26.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-32-41.png>)
+![alt text](<screenshots/elasti-cache/2/Знімок екрана з 2024-05-10 15-33-19.png>)
+
+
 ### 3. Install redic-cli or run redis container from the instance and connect to cache cluster
 ### 4. Put a few values to DB and get them
 ### 5. Delete elasticache cluster, ec2, ec2 policy
