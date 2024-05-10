@@ -46,7 +46,7 @@
 ![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-32-57.png>)
 ![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-13.png>)
 ![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-31.png>)
-![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-44.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-47-08.png>)
 ![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-47-22.png>)
 ![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-47-56.png>)
 
