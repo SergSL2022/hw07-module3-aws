@@ -27,6 +27,15 @@
 ![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-07-42.png>)
 
 ### 5. Delete ECR
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-40-30.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-40-38.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-41-33.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-41-44.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-42-20.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-42-47.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-43-06.png>)
+![alt text](<screenshots/ecr/5/Знімок екрана з 2024-05-10 04-43-15.png>)
+
 
 
 ## ElastiCache
