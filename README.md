@@ -15,7 +15,17 @@
 ![alt text](<screenshots/ecr/2/Знімок екрана з 2024-05-07 15-53-17.png>)
 
 ### 3. Login to ECR repo
+![alt text](<screenshots/ecr/3/Знімок екрана з 2024-05-10 02-59-35.png>)
+![alt text](<screenshots/ecr/3/Знімок екрана з 2024-05-10 03-04-56.png>)
+
 ### 4. Push image to ECR
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-01-38.png>)
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-04-56.png>)
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-05-27.png>)
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-05-57.png>)
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-06-02.png>)
+![alt text](<screenshots/ecr/4/Знімок екрана з 2024-05-10 03-07-42.png>)
+
 ### 5. Delete ECR
 
 
