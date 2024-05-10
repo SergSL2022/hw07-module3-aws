@@ -95,7 +95,21 @@
 ## SNS
 
 ### 1. Create SNS topic
+![alt text](<screenshots/sns/1/Знімок екрана з 2024-05-11 02-16-51.png>)
+![alt text](<screenshots/sns/1/Знімок екрана з 2024-05-11 02-23-03.png>)
+![alt text](<screenshots/sns/1/Знімок екрана з 2024-05-11 02-23-18.png>)
+![alt text](<screenshots/sns/1/Знімок екрана з 2024-05-11 02-23-25.png>)
+![alt text](<screenshots/sns/1/Знімок екрана з 2024-05-11 02-31-09.png>)
+
+
 ### 2. Subscribe your email to notifications
+![alt text](<screenshots/sns/2/Знімок екрана з 2024-05-11 02-26-24.png>)
+![alt text](<screenshots/sns/2/Знімок екрана з 2024-05-11 02-27-16.png>)
+![alt text](<screenshots/sns/2/Знімок екрана з 2024-05-11 02-27-33.png>)
+![alt text](<screenshots/sns/2/Знімок екрана з 2024-05-11 02-28-45.png>)
+![alt text](<screenshots/sns/2/Знімок екрана з 2024-05-11 02-29-12.png>)
+
+
 ### 3. Send message from web console to the topic
 ### 4. Send message from aws cli
 ### 5. Confirm that you've got both messages
