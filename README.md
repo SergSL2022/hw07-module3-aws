@@ -71,6 +71,11 @@
 
 
 ### 3. Install redic-cli or run redis container from the instance and connect to cache cluster
+![alt text](<screenshots/elasti-cache/3/Знімок екрана з 2024-05-10 19-44-19.png>)
+![alt text](<screenshots/elasti-cache/3/Знімок екрана з 2024-05-10 19-44-26.png>)
+![alt text](<screenshots/elasti-cache/3/Знімок екрана з 2024-05-10 20-40-17.png>)
+
+
 ### 4. Put a few values to DB and get them
 ### 5. Delete elasticache cluster, ec2, ec2 policy
 
