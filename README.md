@@ -41,6 +41,16 @@
 ## ElastiCache
 
 ### 1. Create elasticache cluster
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-31-35.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-31-57.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-32-57.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-13.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-31.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-33-44.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-47-22.png>)
+![alt text](<screenshots/elasti-cache/1/Знімок екрана з 2024-05-10 14-47-56.png>)
+
+
 ### 2. Create ec2 instance and provide policy which will allow this specifc ec2 access to your specific cluster
 ### 3. Install redic-cli or run redis container from the instance and connect to cache cluster
 ### 4. Put a few values to DB and get them
