@@ -77,7 +77,19 @@
 
 
 ### 4. Put a few values to DB and get them
+![alt text](<screenshots/elasti-cache/4/Знімок екрана з 2024-05-11 01-35-02.png>)
+
+
 ### 5. Delete elasticache cluster, ec2, ec2 policy
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-36-18.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-36-54.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-37-22.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-37-31.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-38-54.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-39-43.png>)
+![alt text](<screenshots/elasti-cache/5/Знімок екрана з 2024-05-11 01-40-16.png>)
+
+
 
 
 ## SNS
