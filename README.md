@@ -136,11 +136,43 @@
 ## SQS
 
 ### 1. Create SQS queue
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-03-01.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-03-23.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-04-13.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-05-03.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-06-52.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-07-08.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-07-19.png>)
+![alt text](<screenshots/sqs/1/Знімок екрана з 2024-05-11 16-08-26.png>)
+
+
 ### 2. Send message from web console to the queue
+![alt text](<screenshots/sqs/2/Знімок екрана з 2024-05-11 16-27-22.png>)
+![alt text](<screenshots/sqs/2/Знімок екрана з 2024-05-11 16-27-44.png>)
+
+
 ### 3. Get message from aws cli
+![alt text](<screenshots/sqs/3/Знімок екрана з 2024-05-11 16-31-57.png>)
+
+
 ### 4. Send message from aws cli
+![alt text](<screenshots/sqs/4/Знімок екрана з 2024-05-11 16-36-13.png>)
+
+
 ### 5. Get message from web interface
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-37-34.png>)
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-38-01.png>)
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-38-30.png>)
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-39-02.png>)
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-39-28.png>)
+![alt text](<screenshots/sqs/5/Знімок екрана з 2024-05-11 16-39-36.png>)
+
+
 ### 6. Delete topic
+![alt text](<screenshots/sqs/6/Знімок екрана з 2024-05-11 16-40-53.png>)
+![alt text](<screenshots/sqs/6/Знімок екрана з 2024-05-11 16-41-04.png>)
+![alt text](<screenshots/sqs/6/Знімок екрана з 2024-05-11 16-41-13.png>)
+
 
 
 ## Secrets
