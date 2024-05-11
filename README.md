@@ -111,9 +111,26 @@
 
 
 ### 3. Send message from web console to the topic
+![alt text](<screenshots/sns/3/Знімок екрана з 2024-05-11 03-50-19.png>)
+![alt text](<screenshots/sns/3/Знімок екрана з 2024-05-11 03-50-42.png>)
+![alt text](<screenshots/sns/3/Знімок екрана з 2024-05-11 03-50-48.png>)
+![alt text](<screenshots/sns/3/Знімок екрана з 2024-05-11 03-51-01.png>)
+
+
 ### 4. Send message from aws cli
+![alt text](<screenshots/sns/4/Знімок екрана з 2024-05-11 03-55-35.png>)
+
+
 ### 5. Confirm that you've got both messages
+![alt text](<screenshots/sns/5/Знімок екрана з 2024-05-11 03-57-07.png>)
+![alt text](<screenshots/sns/5/Знімок екрана з 2024-05-11 03-57-23.png>)
+
+
 ### 6. Delete topic
+![alt text](<screenshots/sns/6/Знімок екрана з 2024-05-11 03-58-49.png>)
+![alt text](<screenshots/sns/6/Знімок екрана з 2024-05-11 03-59-03.png>)
+![alt text](<screenshots/sns/6/Знімок екрана з 2024-05-11 03-59-13.png>)
+
 
 
 ## SQS
