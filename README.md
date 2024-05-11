@@ -197,5 +197,13 @@
 
 
 ### 3. Change secret value from aws cli
+![alt text](<screenshots/secrets/3/Знімок екрана з 2024-05-11 20-46-16.png>)
+
+
 ### 4. Get updated value from web console
+![alt text](<screenshots/secrets/4/Знімок екрана з 2024-05-11 20-47-51.png>)
+![alt text](<screenshots/secrets/4/Знімок екрана з 2024-05-11 20-47-58.png>)
+![alt text](<screenshots/secrets/4/Знімок екрана з 2024-05-11 20-49-11.png>)
+
+
 ### 5. Delete secret from aws cli without retention period
