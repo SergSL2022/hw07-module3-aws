@@ -178,6 +178,19 @@
 ## Secrets
 
 ### 1. Create secret from the web console
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 16-57-53.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 16-59-54.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-00-51.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-00-59.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-01-33.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-02-22.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-03-28.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-03-36.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-04-14.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-04-34.png>)
+![alt text](<screenshots/secrets/1/Знімок екрана з 2024-05-11 17-04-54.png>)
+
+
 ### 2. Get secret value from aws cli
 ### 3. Change secret value from aws cli
 ### 4. Get updated value from web console
