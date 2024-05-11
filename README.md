@@ -207,3 +207,6 @@
 
 
 ### 5. Delete secret from aws cli without retention period
+![alt text](<screenshots/secrets/5/Знімок екрана з 2024-05-11 20-52-29.png>)
+![alt text](<screenshots/secrets/5/Знімок екрана з 2024-05-11 20-54-49.png>)
+![alt text](<screenshots/secrets/5/Знімок екрана з 2024-05-11 20-55-04.png>)
